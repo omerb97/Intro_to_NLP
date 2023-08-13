@@ -1,0 +1,8 @@
+otter-grader==1.0.0
+torch>=1.9.0
+tqdm
+wget
+pandas==1.5.3
+transformers==4.26.0
+tokenizers==0.13.2
+datasets==2.9.0
