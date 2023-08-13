@@ -1,0 +1,20 @@
+digraph {
+	graph [size="12,12"]
+	node [align=left fontsize=12 height=0.2 ranksep=0.1 shape=box style=filled]
+	5196663824 [label="Pow
+L" fillcolor=darkolivegreen1]
+	5196665888 -> 5196663824
+	5196665888 [label=Sub]
+	5196676736 -> 5196665888
+	5196676736 [label="Mul
+o1" fillcolor=lightblue]
+	5196667760 -> 5196676736
+	5196667760 [label="Clamp1
+h1" fillcolor=lightblue]
+	5196669776 -> 5196667760
+	5196669776 [label=Add]
+	5196671360 -> 5196669776
+	5196671360 [label=Mul]
+	5196666368 -> 5196671360
+	5196666368 [label=U fillcolor=lightblue]
+}

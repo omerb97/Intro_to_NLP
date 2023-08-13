@@ -1,0 +1,4 @@
+otter-grader==1.0.0
+graphviz
+wget
+torch>=1.9.0

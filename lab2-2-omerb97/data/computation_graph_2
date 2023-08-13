@@ -1,0 +1,40 @@
+digraph {
+	graph [size="12,12"]
+	node [align=left fontsize=12 height=0.2 ranksep=0.1 shape=box style=filled]
+	5196669680 [label="Add
+L" fillcolor=darkolivegreen1]
+	5196676160 -> 5196669680
+	5196676160 [label=Pow]
+	5196670928 -> 5196676160
+	5196670928 [label=Sub]
+	5196672944 -> 5196670928
+	5196672944 [label="Mul
+o1" fillcolor=lightblue]
+	5196661088 -> 5196672944
+	5196661088 [label="Clamp1
+h1" fillcolor=lightblue]
+	5196668480 -> 5196661088
+	5196668480 [label=Add]
+	5196676448 -> 5196668480
+	5196676448 [label=Mul]
+	5196673376 -> 5196676448
+	5196673376 [label=U fillcolor=lightblue]
+	5196673520 -> 5196669680
+	5196673520 [label=Pow]
+	5196670352 -> 5196673520
+	5196670352 [label=Sub]
+	5196674288 -> 5196670352
+	5196674288 [label="Mul
+o2" fillcolor=lightblue]
+	5196672320 -> 5196674288
+	5196672320 [label="Clamp1
+h2" fillcolor=lightblue]
+	5196670784 -> 5196672320
+	5196670784 [label=Add]
+	5196662672 -> 5196670784
+	5196662672 [label=Mul]
+	5196673376 -> 5196662672
+	5196675872 -> 5196670784
+	5196675872 [label=Mul]
+	5196661088 -> 5196675872
+}
