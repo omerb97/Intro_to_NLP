@@ -1,0 +1,449 @@
+label,text
+flight_id,what flights go from dallas to phoenix
+flight_id,what flights go from phoenix to salt lake city
+flight_id,i need an early flight from milwaukee to denver
+transport_type,what types of ground transportation are available in denver
+flight_id,what flights go from denver to st. louis on tuesday morning
+transport_type,is ground transportation available in st. louis
+flight_id,i need to fly from st. louis to milwaukee on wednesday afternoon
+flight_id,flights from washington to seattle
+flight_id,flights from atlanta to seattle
+flight_id,flights from san diego to seattle
+flight_id,i would like flight information from phoenix to denver
+flight_id,could i have flight information on flights from salt lake city to phoenix please
+flight_id,could i have flight information on flights from pittsburgh to phoenix please
+flight_id,i would like information on flights leaving from washington dc to denver
+flight_id,i need information on flights from washington to boston that leave on a saturday
+flight_id,i need the flights from washington to montreal on a saturday
+fare_id,i need the fares on flights from washington to toronto on a saturday
+flight_id,i want to go from boston to washington on a saturday
+flight_id,i need a flight from cleveland to dallas that leaves before noon see if too much information
+fare_id,get fares from washington to boston
+fare_id,get saturday fares from washington to boston
+fare_id,get fares from washington to montreal
+fare_id,get saturday fares from washington to montreal
+fare_id,get saturday fares from washington to toronto
+fare_id,get the saturday fare from washington to toronto
+flight_id,list saturday flights from washington to boston
+flight_id,list saturday flights from boston to washington
+flight_id,get flights from milwaukee to dtw
+flight_id,list flights from milwaukee to detroit
+flight_id,get flights from detroit to toronto
+flight_id,get flights from toronto to milwaukee
+flight_id,get last flight from oakland to salt lake city on wednesday or first flight from oakland to salt lake city on thursday
+flight_id,get first flight from oakland to salt lake city on thursday
+flight_id,get last flight from oakland to salt lake city on wednesday
+flight_id,list last wednesday flight from oakland to salt lake city
+flight_id,get flight from toronto to san diego stopping at dtw
+flight_id,get flights between st. petersburg and charlotte
+flight_id,i need a flight from milwaukee to indianapolis leaving monday before 9am
+flight_id,i need a flight departing from milwaukee to indianapolis leaving monday before 8am
+transport_type,is there ground transportation available at the indianapolis airport
+flight_id,i need flight information for a flight departing from indianapolis to cleveland departing tuesday at noon
+flight_id,i need flight information for a flight departing from cleveland to milwaukee wednesday after 6pm
+flight_id,i need flight information for flights departing from cleveland going back to milwaukee wednesday after 5pm
+flight_id,i need flight information for flights departing from cleveland to milwaukee on wednesday after 5pm
+flight_id,i need flight information for flights departing from cleveland to milwaukee on wednesday after 5pm
+flight_id,i need a flight from denver to salt lake city on monday
+transport_type,is there ground transportation available at the denver airport
+flight_id,i need flight and airline information for a flight from denver to salt lake city on monday departing after 5pm
+transport_type,is there ground transportation available at the salt lake city airport
+flight_id,i need a flight from salt lake city to phoenix departing wednesday after 5pm
+transport_type,is there ground transportation available at the phoenix airport
+flight_id,i need a flight from oakland to salt lake city on wednesday departing after 6pm
+flight_id,i need flight and fare information for thursday departing prior to 9am from oakland going to salt lake city
+flight_id,i need flight and fare information departing from oakland to salt lake city on thursday before 8am
+flight_number,i need flight numbers and airlines for flights departing from oakland to salt lake city on thursday departing before 8am
+flight_id,i need flight numbers for those flights departing on thursday before 8am from oakland going to salt lake city
+airport_code,list airports in arizona nevada and california please
+airport_code,list california nevada arizona airports
+airport_code,list the arizona airport
+airport_code,list california airports
+flight_id,list flights from las vegas to phoenix
+airport_code,list california airports
+airport_code,list airports
+flight_id,list wednesday night flights from oakland to salt lake city
+flight_id,list flights from oakland to salt lake city before 6am thursday morning
+airline_code,which airlines fly between toronto and san diego
+flight_id,please list afternoon flights between st. petersburg and charlotte
+airport_code,what is tpa
+flight_id,what are the flights from cleveland to dallas
+flight_id,please list only the flights from cleveland to dallas that leave before noon
+basic_type,what type of aircraft are flying from cleveland to dallas before noon
+flight_id,i need information on flights from indianapolis to seattle
+flight_id,i need a flight from memphis to seattle
+fare_id,i need a ticket from nashville to seattle
+fare_id,i need a ticket from nashville tennessee to seattle
+flight_id,i need flight information from milwaukee to tampa
+transport_type,i need to rent a car at tampa
+flight_id,i need a daily flight from st. louis to milwaukee
+flight_id,i need flights departing from oakland and arriving salt lake city
+flight_id,i need information on flights from toronto to san diego
+flight_id,i need information on flights from toronto to san diego
+flight_id,i want a flight from toronto to san diego
+flight_id,i need information on flights between st. petersburg and charlotte
+flight_id,i need the flight numbers of flights leaving from cleveland and arriving at dallas
+flight_id,which flights go from new york to miami and back
+fare_basis_code,what does fare code qo mean
+flight_id,show me flights from milwaukee to orlando one way
+airline_code,what the abbreviation us stand for
+fare_id,i'd like a one way ticket from milwaukee to orlando either wednesday evening or thursday morning
+flight_id,show me flights from milwaukee to orlando
+booking_class,what does fare code f mean
+booking_class,what does fare code h mean
+fare_basis_code,what does fare code y mean
+restriction_code,what are restrictions ap/57
+flight_id,please show me first class flights from indianapolis to memphis one way leaving before 10am
+flight_id,now show me all round trip flights from burbank to seattle that arrive before 7pm in seattle
+flight_id,round trip flights from orlando to montreal please
+airline_code,what airline is dl
+flight_id,show me all delta airlines flights from montreal to orlando
+flight_id,show me all flights from orlando to montreal please
+airline_code,which airline is kw
+flight_id,please list all flights from new york to miami any any type of class
+fare_basis_code,what does fare code bh mean
+flight_id,show me a return flight from miami to jfk please
+fare_basis_code,what does fare code bh mean
+fare_basis_code,what does fare code bh mean
+fare_basis_code,what does fare code bh mean
+fare_basis_code,what does fare code bh mean
+flight_id,show me one way flights from milwaukee to orlando after 6pm on wednesday
+flight_id,show me the flights from indianapolis to memphis
+flight_id,show me round trip flights from burbank to seattle
+flight_id,show me round trip flights from orlando to montreal
+flight_id,show me nonstop flights from montreal to orlando
+flight_id,show me round trips between montreal and orlando
+flight_id,show me round trip flights from montreal to orlando
+flight_id,show me the cheapest one way flights from montreal to orlando
+flight_id,show me the cheapest one way flights from orlando to montreal
+flight_id,show me the cheapest economy flights from miami to new york
+flight_id,kansas city to las vegas economy
+flight_id,kansas city to las vegas economy
+airline_code,what airline is hp
+transport_type,ground transportation in las vegas
+transport_type,ground transportation for las vegas
+flight_id,las vegas to baltimore economy
+flight_id,las vegas to baltimore economy
+flight_id,baltimore to kansas city economy
+airline_code,what airline is us
+airline_code,which airline is us
+airline_code,which airline is us
+airline_code,which airline is us
+airline_code,which airline is us
+flight_id,columbus to chicago one way before 10am
+airline_code,what airline is hp
+flight_id,st petersburg to detroit
+flight_id,from milwaukee to orlando one way after 5pm wednesday
+flight_id,and from milwaukee to atlanta before 10am daily
+airline_code,what airline is yx
+flight_id,show me all flights from san jose to phoenix
+flight_id,show me all flights from san jose to phoenix
+airline_code,what airline is hp
+transport_type,show me ground transportation in phoenix
+flight_id,show me flights from phoenix to fort worth
+transport_type,show me ground transportation in fort worth
+flight_id,show me flights from fort worth to san jose
+flight_id,show me first class flights from new york to miami round trip
+flight_id,show me first class flights from new york to miami round trip
+flight_id,show me all round trip flights from new york to miami nonstop
+flight_id,show me all round trip flights from miami to new york nonstop
+flight_id,show me one way flights from indianapolis to memphis before 10am on any day
+booking_class,what does fare code f mean
+flight_id,show me round trip flights from burbank to tacoma
+restriction_code,what does the restriction ap58 mean
+booking_class,what does fare code h mean
+airline_code,what airline is as
+airline_code,what airline is as
+airline_code,what airline is as
+airline_code,what airline is a s as in sam
+flight_id,show me nonstop flights from st. petersburg to toronto
+flight_id,show me nonstop flights from toronto to st. petersburg
+flight_id,show me the nonstop flights and fares from toronto to st. petersburg
+flight_id,show me the nonstop flights from toronto to st. petersburg
+flight_id,show me weekday flights from milwaukee to orlando one way
+flight_id,show me weekday flights from milwaukee to orlando one way
+airline_code,what airline is hp
+flight_id,list flights from chicago to san diego
+flight_id,list flights from chicago to san diego
+flight_id,list flights from kansas city to denver
+flight_id,list flights from denver to phoenix
+flight_id,list flights from phoenix to las vegas
+flight_id,list flights from las vegas to san diego
+flight_id,list flights from chicago to kansas city in the morning
+flight_id,list flights from houston to san jose
+flight_id,list flights from houston to milwaukee
+flight_id,list flights from milwaukee to san jose on wednesday
+flight_id,list flights from san jose to dallas on friday
+flight_id,list flights from dallas to houston
+miles_distant,list distance from airports to downtown in new york
+airport_code,list airports in new york
+airport_code,list airports in new york
+airport_code,list airports in la
+airport_code,list airports
+airport_code,list airports in la
+airport_code,list airports in la
+airport_code,list the airports in la
+city_code,list la
+city_code,list la
+flight_id,list flights from new york to la
+flight_id,list flights from la guardia to burbank
+flight_id,list flights from la to orlando
+flight_id,list flights from ontario california to orlando
+flight_id,list flights from ontario california to orlando
+flight_id,list flights from indianapolis to memphis with fares on monday
+flight_id,list flights from indianapolis to memphis on monday
+flight_id,list flights from memphis to miami on wednesday
+flight_id,list flights from miami to indianapolis on sunday
+flight_id,list flights from charlotte on saturday afternoon
+basic_type,list type of aircraft for all flights from charlotte
+flight_id,list flights and fares from tacoma to orlando round trip leaving saturday returning next saturday
+booking_class,what class is fare code q
+flight_id,list flights from orlando to tacoma on saturday of fare basis code of q
+fare_id,list airfares for first class round trip from detroit to st. petersburg
+fare_id,list coach round trip airfare from detroit to st. petersburg
+flight_id,list flights from pittsburgh to newark on monday morning
+flight_id,list flights from minneapolis to pittsburgh on friday
+flight_id,list flights before 9am from cincinnati to tampa
+flight_id,list flights from cincinnati to tampa before noon
+flight_id,list flights from tampa to cincinnati after 3pm
+airline_code,list airlines that fly from seattle to salt lake city
+flight_id,list delta flights from seattle to salt lake city
+aircraft_code,list seating capacities of delta flights from seattle to salt lake city
+flight_id,list delta flights from seattle to salt lake city with aircraft type
+transport_type,what ground transportation is there in baltimore
+transport_type,list ground transportation in baltimore
+flight_id,list flights from baltimore to san francisco on friday
+flight_id,give me the flights from los angeles to pittsburgh on tuesday
+flight_id,give me the flights from pittsburgh to los angeles thursday evening
+flight_id,give me the round trip flights from cleveland to miami next wednesday
+fare_id,give me the fares for round trip flights from cleveland to miami next wednesday
+flight_id,give me the flights and fares for a trip to cleveland from miami on wednesday
+fare_id,give me the fares from miami to cleveland next sunday
+flight_id,give me the flights from milwaukee to phoenix on saturday or sunday on american airlines
+flight_id,give me the flights from phoenix to milwaukee on wednesday evening
+flight_id,give me the flights from phoenix to milwaukee on wednesday on american airlines
+flight_id,give me the flights from phoenix to milwaukee on american airlines
+flight_id,give me the flights from phoenix to milwaukee
+flight_id,give me the meal flights departing early saturday morning from chicago to seattle nonstop
+flight_id,give me the flights from chicago to seattle saturday morning that have meals
+flight_id,give me flights from seattle to chicago that have meals on continental
+flight_id,give me the flights from seattle to chicago that have meals on continental saturday morning
+flight_id,give me the flights from chicago to seattle on continental that have meals early saturday morning
+flight_id,give me a combination of continental flights from chicago to seattle that have meals early saturday morning
+flight_id,give me the saturday morning flights with meals from chicago to minneapolis
+flight_id,give me the saturday morning flights on continental that have meals from chicago to minneapolis
+flight_id,give me the saturday morning flights from chicago to st. paul on continental that have meals
+flight_id,give me the flights from new york to las vegas nonstop
+flight_id,give me the flights from memphis to las vegas nonstop
+flight_id,give me the cheapest round trip flights from indianapolis to orlando around december twenty fifth
+flight_id,i need a friday flight from newark to tampa
+flight_id,i need a sunday flight from tampa to charlotte
+flight_id,give me a flight from charlotte to baltimore on tuesday morning
+flight_id,can i have a morning flight from baltimore to newark please
+fare_id,cheapest round trip fare from indianapolis to orlando on december twenty fifth
+fare_id,cheapest one way fare from indianapolis to orlando on december twenty seventh
+flight_id,flight number from dallas to houston
+flight_id,flight number from houston to dallas
+flight_id,saturday flight on american airlines from milwaukee to phoenix
+flight_id,flight numbers on american airlines from phoenix to milwaukee
+flight_id,flight numbers from chicago to seattle
+flight_id,flight numbers from chicago to seattle on continental
+flight_id,flight numbers from seattle to chicago on continental
+fare_id,is there a fare from pittsburgh to cleveland under 200 dollars
+fare_id,how much is coach flight from pittsburgh to atlanta
+flight_id,newark to tampa on friday
+flight_id,tampa to charlotte sunday morning
+flight_id,charlotte to baltimore on tuesday
+flight_id,baltimore to newark wednesday morning
+flight_id,dallas to houston after 1201am
+flight_id,houston to dallas before midnight
+flight_id,indianapolis to orlando december twenty seventh
+fare_id,cheapest fare from indianapolis to orlando on the twenty seventh of december
+fare_id,cheapest fare round trip from indianapolis to orlando on december twenty seventh
+flight_id,cleveland to miami on wednesday arriving before 4pm
+flight_id,miami to cleveland sunday afternoon
+flight_id,new york city to las vegas and memphis to las vegas on sunday
+flight_id,new york city to las vegas and memphis to las vegas on sunday
+flight_id,new york to las vegas sunday afternoon
+flight_id,memphis to las vegas sunday afternoon
+flight_id,new york to las vegas on sunday afternoon
+flight_id,chicago to seattle saturday morning
+flight_id,chicago to las vegas saturday morning
+flight_id,los angeles to pittsburgh afternoon tuesday
+flight_id,los angeles to pittsburgh afternoon on monday
+flight_id,pittsburgh to los angeles thursday evening
+flight_id,milwaukee to phoenix on saturday
+flight_id,phoenix to milwaukee on sunday
+flight_id,phoenix to milwaukee on wednesday
+flight_id,a flight from baltimore to san francisco arriving between 5 and 8pm
+count,how many northwest flights leave st. paul
+count,how many northwest flights leave washington dc
+count,how many flights does northwest have leaving dulles
+city_code,what cities does northwest fly out of
+city_code,list the cities from which northwest flies
+city_code,what cities does northwest fly to
+flight_id,i would like a connecting flight from dallas to san francisco leaving after 4 o'clock
+flight_id,please list all the flights from dallas to san francisco
+flight_id,tell me again the morning flights on american airlines from philadelphia to dallas
+flight_id,tell me the flights that leave philadelphia and go to dallas
+aircraft_code,what is a d9s
+aircraft_code,what type of plane is a d9s
+aircraft_code,what is a d9s
+airport_code,show me the airports serviced by tower air
+flight_id,show me the first class and coach flights between jfk and orlando
+flight_id,show me the first class and coach flights from kennedy airport to miami
+flight_id,show me the first class and coach flights from jfk to miami
+meal_code,are meals ever served on tower air
+meal_code,are snacks served on tower air
+flight_id,show delta airlines flights from jfk to miami
+flight_id,show delta airlines from boston to salt lake
+flight_id,show delta airlines flights from boston to salt lake
+flight_id,show delta airlines flights from boston to salt lake city
+fare_id,what are the fares for flights between boston and washington dc
+fare_id,what is the least expensive fare from boston to salt lake city
+fare_id,what are the lowest fares from washington dc to salt lake city
+fare_id,what is the lowest fare from bwi to salt lake city
+fare_id,show me the cost of a first class ticket from detroit to las vegas and back
+flight_id,what is the earliest arriving flight from boston to washington dc
+flight_id,what is the earliest arriving flight between boston and washington dc
+flight_id,what's the earliest arriving flight between boston and washington dc
+flight_id,what is the earliest arriving flight from houston to orlando
+flight_id,what is the earliest arriving flight from houston to orlando
+flight_id,show me the flights between houston and orlando
+flight_id,show me the flights between houston and orlando
+flight_id,show me the flights from houston to orlando
+flight_id,list all flights leaving denver between 8pm and 9pm
+aircraft_code,what is the seating capacity on the aircraft 733
+aircraft_code,what is the seating capacity of a 72s
+aircraft_code,what is the seating capacity of the aircraft 72s
+aircraft_code,what is the seating capacity of the aircraft m80
+aircraft_code,what is the seating capacity of the type of aircraft m80
+aircraft_code,what is the seating capacity of an m80
+airline_code,what airlines serve denver
+airline_code,list the airlines with flights to or from denver
+airline_code,what airlines fly into denver
+flight_id,list all flights arriving in denver between 8 and 9pm
+aircraft_code,what is the capacity of the 73s
+aircraft_code,what is 73s
+aircraft_code,what is seating capacity on the aircraft 73s
+aircraft_code,what is the seating capacity of a 757
+aircraft_code,how many people will a 757 hold
+aircraft_code,how many passengers can fly on a 757
+flight_id,list all of the daily flights arriving in denver between 8 and 9pm
+flight_id,list all of the daily flights arriving in denver from 8 to 9pm
+flight_id,show me all of the daily flights arriving in denver between 8pm and 9pm
+aircraft_code,what is the seating capacity of the 757
+aircraft_code,tell me about the m80 aircraft
+aircraft_code,tell me about the m80 aircraft
+aircraft_code,tell me about the type of aircraft called an m80
+aircraft_code,what is the seating capacity of the 733
+aircraft_code,what is the seating capacity of the m80
+aircraft_code,what is the seating capacity on the aircraft m80
+flight_id,list all flights arriving or leaving denver between 8 and 9pm
+flight_id,list all flights arriving in denver between 8 and 9pm
+flight_id,list all flights on all types of aircraft arriving in denver between 8 and 9pm
+flight_id,please list all flights from nashville to memphis on monday morning
+flight_id,please list the flights from nashville to memphis on monday morning
+state_code,is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning
+flight_id,please list the flights from memphis to new york city on a monday night
+airport_code,what is cvg
+transport_type,what ground transportation is available from la guardia airport into new york city
+transport_type,is there ground transportation from lga into new york city
+transport_type,please list the ground transportation from lga into new york city
+transport_type,please list ground transportation from ewr into new york city
+flight_id,show me the morning flights from memphis to new york city
+flight_id,give me the flights from new york city to nashville leaving after 5pm on wednesday
+transport_type,tell me about the ground transportation from nashville airport
+flight_id,what are the nonstop flights from cincinnati to charlotte leaving after noon and arriving before 7pm
+count,how many flights does alaska airlines have to burbank
+flight_id,list the alaska airline flights from burbank to anywhere
+flight_id,list the alaska airline flights from burbank
+airline_code,which airline is as
+flight_id,list the alaska airlines flights arriving in burbank
+flight_id,list the alaska airlines flights departing from burbank
+flight_id,list all alaska airlines flights
+flight_id,list all flights departing from seattle
+flight_id,list the flights from indianapolis to memphis that leave before noon
+fare_id,list the cheapest fare from charlotte to las vegas
+flight_id,i want a flight from los angeles to charlotte early in the morning
+flight_id,i would like a morning flight from charlotte to newark
+flight_id,i'd like a morning flight from newark to los angeles
+flight_id,i'd like an evening flight from newark to los angeles
+flight_id,i would like a flight that leaves on sunday from montreal quebec to san diego california
+flight_id,i would like a flight on tuesday which leaves from san diego to indianapolis indiana and that leaves in the afternoon
+flight_id,i would like to leave thursday morning from indianapolis to toronto
+flight_id,i would like a flight on friday morning from toronto to montreal
+flight_id,i would like a flight from cincinnati to burbank on american
+aircraft_code,what type of aircraft is used for the american flight leaving at 419pm
+flight_id,i need a flight leaving kansas city to chicago leaving next wednesday and returning the following day
+flight_id,what flights go from long beach to st. louis
+flight_id,what are the flights from memphis to las vegas
+flight_id,what are the flights from las vegas to ontario
+flight_id,what are the flights from ontario to memphis
+transport_type,what type of ground transportation is there at the las vegas airport
+transport_type,is there taxi service at the ontario airport
+flight_id,what are the flights from tampa to milwaukee
+flight_id,what are the flights from milwaukee to seattle
+flight_id,what are the flights from la guardia to san jose on united
+flight_id,what are the flights on mondays that travel from charlotte north carolina to phoenix arizona
+flight_id,what are the flights from phoenix arizona to st. paul minnesota on tuesday
+flight_id,what are the flights on thursday leaving from st. paul minnesota to st. louis
+flight_id,what are the flights from st. louis to charlotte north carolina leaving on friday
+flight_id,what are the flights from boston to orlando that stop in new york
+flight_id,i need a morning flight from burbank to milwaukee on next monday
+flight_id,how about a flight from milwaukee to st. louis that leaves monday night
+flight_id,and a flight from st. louis to burbank that leaves tuesday afternoon
+flight_id,how about a flight leaving tuesday night from st. louis to burbank
+flight_id,i need a flight from salt lake to newark airport that arrives on saturday before 6pm
+flight_id,i'd like a flight from cincinnati to newark airport that arrives on saturday before 6pm
+flight_id,i need a flight on american airlines from miami to chicago that arrives around 5pm
+flight_id,i need a flight from memphis to tacoma that goes through los angeles
+flight_id,what are the flights between cincinnati and san jose california which leave after 6pm
+flight_id,what are the nonstop flights between san jose and houston texas
+flight_id,what are the nonstop flights between houston and memphis
+flight_id,what are the flights between memphis and cincinnati on wednesday
+flight_id,what are the american flights from newark to nashville
+flight_id,the flights from ontario to westchester that stop in chicago
+flight_id,please list the flights from los angeles to charlotte
+flight_id,please list the flights from charlotte to newark
+flight_id,please list the flights from newark to los angeles
+flight_id,please list the flights from cincinnati to burbank on american airlines
+flight_id,please give me the flights from kansas city to chicago on june sixteenth
+flight_id,please give me the flights from chicago to kansas city on june seventeenth
+flight_id,please list all the flights from kansas city to chicago on june sixteenth
+flight_id,please list all the flights from chicago to kansas city on june seventeenth
+flight_id,i'd like to travel from burbank to milwaukee
+flight_id,can you find me a flight from salt lake city to new york city next saturday before arriving before 6pm
+flight_id,can you find me another flight from cincinnati to new york on saturday before 6pm
+flight_id,can you list all of the delta flights from salt lake city to new york next saturday arriving before 6pm
+flight_id,i'd like to fly from miami to chicago on on american airlines arriving around 5pm
+flight_id,i'd like to travel from kansas city to chicago next wednesday
+flight_id,i'd like a round trip flight from kansas city to chicago on wednesday may twenty sixth arriving at 7pm
+flight_id,yes i'd like to find a flight from memphis to tacoma stopping in los angeles
+flight_id,find flight from san diego to phoenix on monday am
+flight_id,find flight from phoenix to detroit on monday
+flight_id,find flight from detroit to san diego on tuesday
+flight_id,find flight from cincinnati to san jose on monday
+flight_id,find flight from san jose to houston on wednesday
+flight_id,find flight from houston to memphis on friday
+flight_id,find flight from memphis to cincinnati on sunday
+flight_id,find american flight from newark to nashville around 630pm
+flight_id,please find a flight round trip from los angeles to tacoma washington with a stopover in san francisco not exceeding the price of 300 dollars for june tenth 1993
+flight_id,are there any flights on june tenth from burbank to tacoma
+flight_id,please find a flight from ontario to westchester that makes a stop in chicago on may seventeenth one way with dinner
+flight_id,like to book a flight from burbank to milwaukee
+flight_id,show me all the flights from burbank to milwaukee
+flight_id,find me all the flights from milwaukee to st. louis
+flight_id,now show me all the flights from st. louis to burbank
+airline_code,is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank
+flight_id,find me all the round trip flights from burbank to milwaukee stopping in st. louis
+flight_id,i'd like to book two flights to westchester county
+flight_id,i want to book a flight from salt lake city to westchester county
+airport_code,tell me all the airports near westchester county
+flight_id,i'd like to book a flight from cincinnati to new york city on united airlines for next saturday
+airport_code,tell me all the airports in the new york city area
+flight_id,please find all the flights from cincinnati to any airport in the new york city area that arrive next saturday before 6pm
+flight_id,find me a flight from cincinnati to any airport in the new york city area
+flight_id,i'd like to fly from miami to chicago on american airlines
+flight_id,i would like to book a round trip flight from kansas city to chicago
+flight_id,find me a flight that flies from memphis to tacoma
