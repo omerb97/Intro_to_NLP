@@ -1,0 +1,10 @@
+test = {   'name': 'pcfg_to_dict',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(pcfg_to_dict(probabilistic_arithmetic_grammar), dict)\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': '>>> all([isinstance(k, nltk.grammar.Production)\n...      and (0 <= v <= 1) for k,v in pcfg_to_dict(probabilistic_arithmetic_grammar).items()])\nTrue',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
